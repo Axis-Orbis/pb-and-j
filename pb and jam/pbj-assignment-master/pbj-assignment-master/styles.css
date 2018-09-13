@@ -1,0 +1,42 @@
+html{
+    background-color: #680A0A;
+}
+
+h1{
+    font-family: 'Dosis', sans-serif;
+    font-size: 36px;
+    letter-spacing: 2px
+}
+
+h2, p, ol, ul{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+    font-size: 21px;
+}
+
+.small{
+    font-size: 11px;
+}
+
+p, ul, ol{
+    font-size: 13px
+}
+div{
+    border: 2px solid white;
+}
+body{
+    width: 500px;
+    margin: auto;
+    
+    padding: 10px 90px 5px;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: #680A0A
+}
+a:hover{
+    text-decoration: underline;
+}
